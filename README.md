@@ -1,1 +1,1 @@
-Task 0. Where am I?
+Task 7. Betty in my first directory
